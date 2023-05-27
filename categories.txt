@@ -1,0 +1,50 @@
+1|Biographie|Livres qui racontent l'histoire de vie d'une personne ou d'un groupe de personnes.
+2|Fiction|Livres qui sont composés d'histoires imaginaires ou fictives.
+3|Non-Fiction|Livres qui sont basés sur des faits et des événements réels.
+4|Romance|Livres qui se concentrent sur l'amour et les relations amoureuses.
+5|Science-Fiction|Livres qui sont basés sur des concepts scientifiques ou futuristes.
+6|Thriller|Livres qui sont pleins de suspense et d'excitation, souvent en rapport avec le crime ou le danger.
+7|Horreur|Livres qui sont conçus pour effrayer ou horrifier le lecteur.
+8|Mystère|Livres qui impliquent la résolution d'une énigme ou d'un crime.
+9|Comédie|Livres qui sont destinés à être drôles ou humoristiques.
+10|Drame|Livres qui sont sérieux et souvent émotionnels, en mettant l'accent sur le développement des personnages.
+11|Poésie|Livres qui contiennent des poèmes, explorant souvent des thèmes d'émotion et de langage.
+12|Histoire|Livres qui se concentrent sur les événements passés et leur influence sur le présent.
+13|Développement personnel|Livres qui offrent des conseils ou des orientations sur la croissance personnelle et le développement.
+14|Affaires|Livres qui se concentrent sur des sujets liés à la finance, à l'entrepreneuriat et à la gestion.
+15|Cuisine|Livres qui contiennent des recettes et des techniques de cuisine.
+16|Voyage|Livres qui explorent différentes destinations et cultures.
+17|Art|Livres qui se concentrent sur différentes formes d'art, comme la peinture, la sculpture et la photographie.
+18|Musique|Livres qui se concentrent sur la théorie musicale, l'histoire et l'appréciation de la musique.
+19|Informatique|Livres qui se concentrent sur les technologies de l'information et l'informatique.
+20|Science|Livres qui se concentrent sur les sciences naturelles, comme la biologie, la physique et la chimie.
+21|Philosophie|Livres qui explorent les idées et les concepts philosophiques.
+22|Religion|Livres qui se concentrent sur les croyances et les pratiques religieuses.
+23|Artisanat|Livres qui se concentrent sur les techniques et les compétences artisanales, comme le travail du bois et de la céramique.
+24|Langues étrangères|Livres qui aident à apprendre une langue étrangère, souvent avec des exercices pratiques.
+25|Psychologie|Livres qui se concentrent sur les processus mentaux, les comportements et les émotions humaines.
+26|Sociologie|Livres qui explorent les structures sociales et les relations entre les individus et les groupes.
+27|Économie|Livres qui se concentrent sur l'économie et les questions économiques.
+28|Politique|Livres qui se concentrent sur la théorie et la pratique politique.
+29|Science politique|Livres qui se concentrent sur les institutions politiques et la gouvernance.
+30|Environnement|Livres qui se concentrent sur les questions environnementales, telles que le changement climatique et la durabilité.
+31|Éducation|Livres qui se concentrent sur l'enseignement et l'apprentissage.
+32|Sports|Livres qui se concentrent sur les sports et les activités physiques.
+33|Cinéma|Livres qui se concentrent sur le cinéma et les films.
+34|Théâtre|Livres qui se concentrent sur le théâtre et les pièces de théâtre.
+35|Bandes dessinées|Livres qui contiennent des bandes dessinées et des romans graphiques.
+36|Jeunesse|Livres qui sont destinés aux enfants et aux jeunes adultes.
+37|Fantasy|Livres qui se concentrent sur des mondes imaginaires et fantastiques.
+38|Policier|Livres qui sont centrés sur la résolution de crimes et de mystères.
+39|BD Manga|Livres qui contiennent des bandes dessinées et des romans graphiques d'origine japonaise.
+40|Érotique|Livres qui contiennent des scènes sexuellement explicites.
+41|Gastronomie|Livres qui se concentrent sur la cuisine et la gastronomie.
+42|Nature|Livres qui se concentrent sur la faune, la flore et les paysages naturels.
+43|Vie pratique|Livres qui offrent des conseils pratiques sur la vie quotidienne, tels que l'organisation et la gestion du temps.
+44|Humour|Livres qui sont destinés à être drôles ou humoristiques.
+45|Relaxation|Livres qui offrent des conseils sur la relaxation, la méditation et la pleine conscience.
+46|Développement durable|Livres qui se concentrent sur les pratiques et les solutions durables pour la planète.
+47|Nouvelles|Livres qui contiennent des histoires courtes.
+48|Bande dessinée européenne|Livres qui contiennent des bandes dessinées et des romans graphiques d'origine européenne.
+49|Aventure|Livres qui se concentrent sur des aventures passionnantes et palpitantes.
+50|Science de la vie|Livres qui se concentrent sur la biologie et les sciences de la vie.

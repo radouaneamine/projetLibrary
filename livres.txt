@@ -1,0 +1,62 @@
+1|13|La Guerre des mondes|H.G. Wells|Un roman de science-fiction classique sur une invasion extraterrestre.
+3|15|Le Nom de la rose|Umberto Eco|Un mystère médiéval qui se déroule dans une abbaye italienne.
+4|7|Harry Potter à l'école des sorciers|J.K. Rowling|Un livre pour enfants sur un garçon qui découvre qu'il est un sorcier.
+5|10|1984|George Orwell|Un classique dystopique sur une société oppressive et contrôlée par le gouvernement.
+6|3|Le Petit Prince|Antoine de Saint-Exupéry|Un conte philosophique sur l'amitié et l'importance des relations.
+9|30|La Vie secrète des arbres|Peter Wohlleben|Un livre sur la communication et la vie sociale des arbres.
+11|12|Les Misérables|Victor Hugo|Un roman classique sur un ancien forçat qui essaie de se racheter.
+12|34|Le Parrain|Mario Puzo|Un roman sur une famille de mafieux italiens à New York.
+13|17|Le Vieil Homme et la Mer|Ernest Hemingway|Un roman court sur un vieux pêcheur cubain qui lutte contre un gigantesque poisson.
+14|44|Le Pouvoir du moment présent|Eckhart Tolle|Un livre sur la méditation et la pleine conscience.
+16|50|Biologie cellulaire|Bruce Alberts|Un livre de référence sur la biologie cellulaire et moléculaire.
+17|31|Le Choix d'Edith|Edith Eva Eger|Un livre sur la guerre, la survie et la résilience.
+20|24|Le Monde selon Garp|John Irving|Un roman sur un écrivain excentrique et son fils.
+21|11|La Divine Comédie|Dante Alighieri|Un poème épique sur un voyage à travers l'enfer, le purgatoire et le paradis.
+22|5|Les Trois Mousquetaires|Alexandre Dumas|Un roman d'aventures classique sur trois mousquetaires du roi Louis XIII.
+23|16|Le Parfum|Patrick Süskind|Un roman sur un meurtrier qui cherche à créer le parfum parfait.
+24|9|Le Journal d'Anne Frank|Anne Frank|Le journal intime d'une jeune fille juive pendant l'occupation allemande des Pays-Bas.
+26|40|L'Alchimiste|Paulo Coelho|Un roman sur un berger qui cherche son trésor personnel.
+27|22|Le Rouge et le Noir|Stendhal|Un roman classique sur un jeune homme ambitieux qui cherche à grimper dans la société française du XIXe siècle.
+28|47|Le Petit Livre de la méditation de pleine conscience|Patricia Penot|Un livre pratique sur la méditation de pleine conscience.
+30|42|Les Quatre Accords Toltèques|Don Miguel Ruiz|Un livre de développement personnel qui présente des principes pour une vie heureuse et épanouissante.
+31|4|Le Malade imaginaire|Molière|Une pièce de théâtre classique sur un homme hypochondriaque.
+33|8|Le Rouge-Gorge|Jo Nesbø|Un roman policier sur une série de meurtres dans un petit village norvégien.
+36|11|L'Odyssée|Homère|Une épopée grecque antique sur les aventures d'Ulysse après la guerre de Troie.
+41|28|Le Deuxième Sexe|Simone de Beauvoir|Un essai philosophique sur la condition des femmes dans la société occidentale.
+43|17|Les Trois Petits Cochons|Conte populaire|Un conte populaire sur trois cochons qui construisent des maisons pour se protéger du grand méchant loup.
+47|36|Le Grand Secret|René Barjavel|Un roman de science-fiction sur un virus qui détruit l'humanité.
+48|24|Le Tour d'écrou|Henry James|Un roman fantastique sur une gouvernante qui commence à voir des fantômes dans une maison isolée.
+50|9|La Vie devant soi|Émile Ajar|Un roman sur la vie d'un jeune garçon arabe et de sa mère adoptive juive à Paris.
+51|21|L'Écume des jours|Boris Vian|Un roman sur l'amour et la maladie dans un Paris surréaliste.
+53|16|Le Hussard sur le toit|Jean Giono|Un roman historique sur un jeune hussard italien qui traverse la France pendant une épidémie de choléra.
+54|22|Les Fourmis|Bernard Werber|Un roman de science-fiction sur une colonie de fourmis qui découvre l'existence de l'humanité.
+55|5|Les Liaisons dangereuses|Choderlos de Laclos|Un roman épistolaire sur les intrigues amoureuses et politiques de la noblesse française du XVIIIe siècle.
+65|25|Le Père Goriot|Honoré de Balzac|Un roman sur la vie d'un homme riche et ambitieux, Eugène de Rastignac, dans la France du XIXe siècle.
+67|9|Les Rois maudits|Maurice Druon|Un roman historique sur la vie des rois de France de la dynastie des Capétiens.
+68|21|La Nausée|Jean-Paul Sartre|Un roman existentialiste sur la vie d'un homme qui cherche à donner un sens à son existence.
+69|7|Madame Bovary|Gustave Flaubert|Un roman sur la vie d'une femme qui cherche à échapper à la monotonie de sa vie de province.
+70|16|Voyage au bout de la nuit|Louis-Ferdinand Céline|Un roman sur la vie d'un médecin qui traverse l'Europe pendant la Première Guerre mondiale.
+74|26|Les Bienveillantes|Jonathan Littell|Un roman sur la vie d'un officier nazi pendant la Seconde Guerre mondiale.
+80|1|La Terre|Émile Zola|Un roman sur la vie paysanne dans le Nord de la France au XIXe siècle.
+87|8|Bel-Ami|Guy de Maupassant|Un roman sur la vie d'un homme ambitieux, Georges Duroy, dans le Paris de la fin du XIXe siècle.
+97|18|La Peste|Albert Camus|Un roman sur la vie des habitants d'Oran, en Algérie, pendant une épidémie de peste.
+100|1|The Catcher in the Rye|J.D. Salinger|Un adolescent en rébellion contre la société
+101|1|To Kill a Mockingbird|Harper Lee|Un avocat défend un homme noir accusé de viol dans le sud des États-Unis
+102|1|Pride and Prejudice|Jane Austen|Une comédie romantique sur les relations sociales et amoureuses en Angleterre au début du XIXe siècle
+104|2|Brave New World|Aldous Huxley|Un autre roman dystopique sur une société où tout est régulé par la science et la technologie
+105|2|Fahrenheit 451|Ray Bradbury|Un autre roman dystopique sur une société où la lecture est interdite et les livres sont brûlés
+106|3|The Da Vinci Code|Dan Brown|Une enquête sur une conspiration religieuse et une chasse au trésor en Europe
+107|3|Angels and Demons|Dan Brown|Un autre thriller de Dan Brown sur une conspiration religieuse et une course contre la montre
+108|3|The Girl with the Dragon Tattoo|Stieg Larsson|Une enquête sur une journaliste et un hacker informatique qui recherchent la vérité sur une disparition mystérieuse
+109|4|The Hitchhiker's Guide to the Galaxy|Douglas Adams|Une comédie de science-fiction sur un voyage intergalactique loufoque
+111|4|The Martian|Andy Weir|Un roman de science-fiction sur un astronaute qui doit survivre seul sur Mars après avoir été laissé pour mort par son équipage
+112|5|The Hunger Games|Suzanne Collins|Un roman dystopique sur une société où des adolescents doivent se battre à mort lors d'un événement télévisé
+113|5|Divergent|Veronica Roth|Un autre roman dystopique sur une société divisée en factions basées sur des qualités de personnalité
+114|5|The Maze Runner|James Dashner|Un autre roman dystopique sur un groupe de jeunes bloqués dans un labyrinthe dangereux
+115|6|The Name of the Wind|Patrick Rothfuss|Un roman de fantasy sur un musicien et un magicien racontant son histoire
+118|7|The Great Gatsby|F. Scott Fitzgerald|Une histoire d'amour tragique sur fond de l'opulence des années folles
+122|2|The Sun Also Rises|Ernest Hemingway|Le roman suit un groupe d'Américains expatriés à Paris et en Espagne alors qu'ils cherchent à échapper aux horreurs de la Première Guerre mondiale.
+123|3|One Hundred Years of Solitude|Gabriel Garcia Marquez|Le roman suit sept générations de la famille Buendía dans la ville fictive de Macondo, dans lequel le réalisme magique est utilisé pour explorer la politique, la religion et l'identité.
+124|3|Love in the Time of Cholera|Gabriel Garcia Marquez|Un homme attend plus de cinquante ans pour être avec la femme qu'il aime, tandis qu'une épidémie de choléra frappe sa ville natale.
+126|4|1984|George Orwell|Dans un futur dystopique, un gouvernement totalitaire contrôle tous les aspects de la vie de ses citoyens, y compris la pensée et le langage.
+127|14|mmmmmmmmmmmmm mmmmmmmmmmmmm|lllllllllll l|ffffffff ffffffffffff
