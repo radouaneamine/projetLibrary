@@ -12,6 +12,8 @@ typedef struct Livre{
 typedef struct Livres {
 	Livre* premier;
 	int nbr;
+	int max;
+	int* livres_sorties;
 }Livres;
 
 
@@ -120,8 +122,12 @@ int lire_livres(){
 		printf("Erreur ouverture fichier des livres\n");
 		return -1;
 	}
+	int max_livres = 1000;
 	LIVRES->premier = NULL;
 	LIVRES->nbr = 0;
+	LIVRES->max = max_livres;
+	LIVRES->livres_sorties = (int*) malloc(sizeof(int)*max_livres);
+	for(int i = 0 ; i <max_livres ; i++ ) LIVRES->livres_sorties[i] = 0;
 	int id,cat;
 	char* str, *nom, *description, *autheur, *cat_s;
 	while(fgets(buffer,1024,livre)!=NULL){
@@ -212,17 +218,17 @@ void ajouter_livre(){
 	}
 	printf("Categorie: %s\n",cat->nom);
 	printf("Donner le titre du livre: ");
-	fflush(stdin);
+	clear_stdin();
 	fgets(nom, 50, stdin);
 	nom[strcspn(nom, "\n")] = '\0';
 
 	printf("Donner le Nom de l'autheur: ");
-	fflush(stdin);
+	clear_stdin();
 	fgets(autheur, 50, stdin);
 	autheur[strcspn(autheur, "\n")] = '\0';
-	
+
 	printf("Donner la description du livre: ");
-	fflush(stdin);
+	clear_stdin();
 	fgets(desc, 1024, stdin);
 	desc[strcspn(desc, "\n")] = '\0';
 
@@ -347,6 +353,7 @@ void vider_livres(){
 		suppr_livre(tmp1);
 		tmp = tmp->suivant;
 	}
+	free(LIVRES->livres_sorties);
 	free(LIVRES);
 }
 

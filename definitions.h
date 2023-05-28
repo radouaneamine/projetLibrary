@@ -15,10 +15,18 @@
 #define CHERCHER_TITRE			11
 #define CHERCHER_AUTHEUR		12
 
+#define MENU_ETUDIANT			13
+#define AFFICHER_ETUDIANTS		14
+#define AJOUTER_ETUDIANT			15
+#define SUPPR_ETUDIANT			16
+
+#define PRENDRE_LIVRE			17
+#define RETOURN_LIVRE			18
+
 #define QUITER					0
 
 
-#define COULEUR_JAUNE			14	
+#define COULEUR_JAUNE			14
 #define COULEUR_ROUGE			12
 #define COULEUR_VERT			10
 #define COULEUR_BLEU			11

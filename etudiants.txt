@@ -1,0 +1,6 @@
+14|Ahmed
+15|Mohamed|10
+16|Sara|26,50
+21|mariam
+20|ahmed|126,118,123,113,115
+22|Mohamed ali

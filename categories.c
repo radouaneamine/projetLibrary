@@ -23,7 +23,7 @@ int  ajouter_cat_fichier(Cat*);
 void ajouter_cat_a_list(Cat*);
 void afficher_cat(Cat*);
 void afficher_categories();
-int  lire_categoires();
+int  lire_categories();
 int  suppr_cat(Cat*);
 int  suppr_cat_fichier(int);
 Cat* trouver_cat_par_id(int);
@@ -76,7 +76,7 @@ void afficher_categories(){
 	}
 }
 
-int lire_categoires(){
+int lire_categories(){
 	CATEGORIES = (Categories*) malloc(sizeof(Categories));
 	FILE* cat = fopen("categories.txt","r");
 	char* ligne = (char*) malloc(sizeof(char)*1024);
@@ -172,11 +172,11 @@ void ajouter_cat(){
 	char nom[50];
 	char desc[1024];
 	printf("Donner le nom de la categorie: ");
-	fflush(stdin);
+	clear_stdin();
 	fgets(nom,sizeof(nom),stdin);
 	nom[strcspn(nom, "\n")] = '\0';
 	printf("Donner la description de la categorie: ");
-	fflush(stdin);
+	clear_stdin();
 	fgets(desc,sizeof(desc),stdin);
 	desc[strcspn(desc, "\n")] = '\0';
 	Cat* c = cree_cat(max_id,nom,desc);

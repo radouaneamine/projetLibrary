@@ -59,4 +59,3 @@
 123|3|One Hundred Years of Solitude|Gabriel Garcia Marquez|Le roman suit sept générations de la famille Buendía dans la ville fictive de Macondo, dans lequel le réalisme magique est utilisé pour explorer la politique, la religion et l'identité.
 124|3|Love in the Time of Cholera|Gabriel Garcia Marquez|Un homme attend plus de cinquante ans pour être avec la femme qu'il aime, tandis qu'une épidémie de choléra frappe sa ville natale.
 126|4|1984|George Orwell|Dans un futur dystopique, un gouvernement totalitaire contrôle tous les aspects de la vie de ses citoyens, y compris la pensée et le langage.
-127|14|mmmmmmmmmmmmm mmmmmmmmmmmmm|lllllllllll l|ffffffff ffffffffffff
