@@ -176,9 +176,10 @@ void ajouter_cat(){
 	fgets(nom,sizeof(nom),stdin);
 	nom[strcspn(nom, "\n")] = '\0';
 	printf("Donner la description de la categorie: ");
-	clear_stdin();
+	//clear_stdin();
 	fgets(desc,sizeof(desc),stdin);
 	desc[strcspn(desc, "\n")] = '\0';
+	clear_stdin();
 	Cat* c = cree_cat(max_id,nom,desc);
 	ajouter_cat_a_list(c);
 	ajouter_cat_fichier(c);

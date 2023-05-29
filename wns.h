@@ -60,6 +60,7 @@ void title(int x, int y, const char * str){
 
 
 void design(){
+   title(0,0,"Gestion d'une bibliotheque");	
    int x,y;
    getxy(&x,&y);
    y+=2; 	

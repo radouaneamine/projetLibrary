@@ -298,11 +298,11 @@ void retourner_livre(Etudiant* e, int id ){
 			e->livres[i] = 0;
 			suppr_etudiant_fichier(e->id);
 			ajouter_etudiant_fichier(e);
-			printf("livre %d retourné par l'etudiant %s\n",id,e->nom);
+			printf("livre %d retourne par l'etudiant %s\n",id,e->nom);
 			return;
 		}
 	}
-	printf("le livre %d n'est pas prix par l'etudiant %s",id, e->nom);
+	printf("le livre %d n'est pas pris par l'etudiant %s",id, e->nom);
 }
 
 void vider_etudiants(){

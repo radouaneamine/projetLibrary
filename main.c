@@ -11,17 +11,6 @@ void clear_stdin(){
 #include "wns.h"
 
 
-/*
-void color(int x){
-}
-
-void printHline(int a, int b, int c){
-}
-
-void resulta(){
-}
-*/
-
 #include "definitions.h"
 
 #include "categories.c"
@@ -32,13 +21,11 @@ void menu();
 void menu_etudiant(Etudiant*);
 
 int main() {
-	title(0,0,"Gestion d'une bibliotheque");
 	design();
     lire_categories();
     lire_livres();
     lire_etudiants();
     menu();
-    color(COULEUR_BLANC);
     vider_etudiants();
     vider_livres();
     vider_categories();
@@ -210,6 +197,7 @@ void menu(){
 				break;
 			case QUITER:
 				printf("Au revoir!\n");
+				color(COULEUR_BLANC);
 				return;
 				break;
 			default:
@@ -219,6 +207,7 @@ void menu(){
 		}
 		color(COULEUR_BLANC);
 		printf("Appuier sur une touche pour continuer...");
+		
 		clear_stdin();
 		getchar();
 
@@ -239,7 +228,7 @@ void menu_etudiant(Etudiant* e){
 		printf("\n	menu  Etudiant	 \n");
 		printHline(0,2 ,70);
 		if(e){
-			printf("\n Etudiant: %d	Nom:%s	\n",e->id,e->nom);
+			printf("\n id: %d	Nom: %s	\n",e->id,e->nom);
 			printHline(0,4 ,70);
 			printf("\n Mes Livres:\n");
 			for(int i = 0; i<5 ; i++) {
